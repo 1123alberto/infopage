@@ -1,0 +1,17 @@
+BEGIN:VCARD
+VERSION:3.0
+FN:Angelo Moshopoulos
+N:Moshopoulos;Angelo;;;
+item1.EMAIL;TYPE=INTERNET:angelo.moshopoulos@gmail.com
+item1.X-ABLabel:
+TEL;TYPE=WORK:+30 21 0931 2651
+TEL;TYPE=CELL:+30  6974385178
+item2.ADR:;;Pl. Ntavari 2;Paleo Faliro;;175 64;GR;Pl. Ntavari 2\nPaleo Fali
+ ro 175 64\nGR
+item2.X-ABLabel:
+item3.TITLE:Dental Surgeon
+item3.X-ABLabel:
+PHOTO:https://lh3.googleusercontent.com/contacts/AG6tpzHmxKQL_v7spABlH_trmD
+ r7A8OrKF0ZKFq3vSev252crJslJg1g
+CATEGORIES:myContacts
+END:VCARD

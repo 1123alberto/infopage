@@ -1,0 +1,16 @@
+BEGIN:VCARD
+VERSION:3.0
+FN:Άγγελος Μοσχόπουλος
+N:Μοσχόπουλος;Άγγελος;;;
+item1.EMAIL;TYPE=INTERNET:angelo.moshopoulos@gmail.com
+item1.X-ABLabel:
+TEL;TYPE=WORK:21 0931 2651
+TEL;TYPE=CELL:697 438 5178
+ADR;TYPE=WORK:;;Pl. Ntavari 2;Paleo Faliro;;175 64;GR;Pl. Ntavari 2\nPaleo 
+ Faliro 175 64\nGR
+item2.TITLE:Χειρουργός Οδοντίατρος
+item2.X-ABLabel:
+PHOTO:https://lh3.googleusercontent.com/contacts/AG6tpzHFB5ypjShQAde-byYf8Q
+ Qdnym56bhl45q2rtjWDmJB4XjEvlHi
+CATEGORIES:myContacts
+END:VCARD
